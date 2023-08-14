@@ -189,3 +189,146 @@ body{
   }
   
    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 2-section */
+
+
+
+
+
+
+
+
+
+.sect-three{
+    width: 1300px;
+    margin: 0 auto;
+    background-color:#F9F9F9;;
+    
+}.All{
+    display: flex;
+    gap: 120px;
+    padding: 70px 0 ;
+}
+.style-wrap{
+    font-size: 35px;
+}
+.all-boxtwo{
+    width: 400px;
+    height: 350px;
+    border: 4px solid;
+    box-shadow: 15px 15px 0 #71A894;
+    border-radius: 16px;
+    position: relative;
+    
+}
+.all-box{
+    position: relative;
+    left: 50px;
+}
+.box-icon{
+    width: 50px;
+    height: 50px;
+}
+.dillion-box{
+    /* width: 30px; */
+    /* height: 20px; */
+    display: flex;
+    gap: 20px;
+    position: relative;
+    top: 20px;
+    left: 40px;
+}
+.dilly{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 15px;
+   }
+   .style-boxtwo{
+    position: relative;
+    top: 5px;
+    left: 40px;
+   }
+
+.style-one{
+    position: relative;
+    bottom: 20px;
+    font-size: 18px;
+}
+.style-two{
+    font-size: 10px;
+    color: black;
+    opacity: 0.6;
+    position: relative;
+    bottom: 35px;
+}
+.anna-olsen{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 15px;
+}
+.Anna-box{
+    display: flex;
+    gap: 20px;
+    position: relative;
+    top: 20px;
+    left: 40px;
+}
+.anna-style{
+    position: relative;
+    bottom: 20px;
+    font-size: 17px;
+}
+.anna-styletwo{
+    font-size: 10px;
+    color: black;
+    opacity: 0.6;
+    position: relative;
+    bottom: 35px;
+    }
+.Kas-box{
+    display: flex;
+    gap: 20px;
+    position: relative;
+    top: 20px;
+    left: 40px;
+
+}
+.kas{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 15px;
+}
+.kass-style{
+    position: relative;
+    bottom: 20px;
+    font-size: 17px;
+}
+.kas-styletwo{
+    font-size: 10px;
+    color: black;
+    opacity: 0.6;
+    position: relative;
+    bottom: 35px;
+}
