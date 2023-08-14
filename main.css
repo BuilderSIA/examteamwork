@@ -46,7 +46,9 @@
     height: 20%;
     font-size: 14px;
     margin-left: 35px;
-    margin-top: 50px;
+}
+.midtext{
+    margin-top: 30px;
 }
 .btmtext{
     display: flex;
